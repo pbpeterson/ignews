@@ -45,7 +45,6 @@ export default NextAuth({
      } catch{
        return false
      }
-      
     }
   }
 })
